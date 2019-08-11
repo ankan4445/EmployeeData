@@ -1,0 +1,14 @@
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeTester.deps.json
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeTester.runtimeconfig.json
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeTester.runtimeconfig.dev.json
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeTester.dll
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeTester.pdb
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeData.dll
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\bin\Debug\netcoreapp2.1\EmployeeData.pdb
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.csprojAssemblyReference.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.csproj.CoreCompileInputs.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.AssemblyInfoInputs.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.AssemblyInfo.cs
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.csproj.CopyComplete
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.dll
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeTester\obj\Debug\netcoreapp2.1\EmployeeTester.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.deps.json
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.dll
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\bin\Debug\netstandard2.0\EmployeeData.pdb
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.csprojAssemblyReference.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.AssemblyInfoInputs.cache
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.AssemblyInfo.cs
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.dll
+C:\Users\Ankan.mondal\source\repos\EmployeeData\EmployeeData\obj\Debug\netstandard2.0\EmployeeData.pdb
